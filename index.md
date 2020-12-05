@@ -1,4 +1,4 @@
-![プロフィール画像](Uvillige.jpg)
+![プロフィール画像](self-photo.png)
 
 
 # About
