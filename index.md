@@ -1,7 +1,7 @@
 ![プロフィール画像](self-photo.png)
 
 
-# About
+## About
 
 こんにちは。関西大学4回生の木村修平です。  
 大学では主にマーケティングを学んでいました。  
@@ -35,6 +35,10 @@
   
   
 [Facebook](https://www.facebook.com/profile.php?id=100009208309858)  
-
+  
+  
+## Works  
 
 <iframe src="https://www.openprocessing.org/sketch/1009939/embed/" width="400" height="300"></iframe>
+  
+  
