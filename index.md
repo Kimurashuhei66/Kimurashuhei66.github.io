@@ -27,9 +27,7 @@
     
 ## My SNS  
   
-[Twitter](https://twitter.com/x6_kim)  
-<a class="twitter-timeline" data-width="400" data-height="600" data-theme="dark" href="https://twitter.com/x6_kim?ref_src=twsrc%5Etfw">Tweets by x6_kim</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
-  
+[Twitter](https://twitter.com/x6_kim)   
   
 [Instagram](https://www.instagram.com/x66.kim/?hl=ja)  
   
